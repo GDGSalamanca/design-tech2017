@@ -11,6 +11,16 @@
             "logoUrl": "../images/partners/thebighouse.svg"
             
         },{
+            "name": "Muokkaa Studio",
+            "url": "http://muokkaa.com",
+            "logoUrl": "../images/partners/muokkaa.png"
+
+        },{
+            "name": "KITXUNE",
+            "url": "http://www.kitxune.com",
+            "logoUrl": "../images/partners/kitxunelogo.png"
+
+        },{
             "name": "Grupo de Investigación GRIAL. Universidad de Salamanca",
             "url": "http://grial.usal.es/",
             "logoUrl": "../images/partners/grial.png"
