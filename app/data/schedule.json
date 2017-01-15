@@ -1,8 +1,8 @@
 [{
-    "date": "2015-11-13",
-    "dateReadable": "13 Noviembre",
+    "date": "2017-03-17",
+    "dateReadable": "17 Marzo",
     "tracks": [{
-        "title": "Aula 11, CRAI - Facultad de Bellas Artes de la Universidad de Salamanca"
+        "title": "Por definir"
     }],
     "timeslots": [{
         "startTime": "16:00",
@@ -13,12 +13,12 @@
     }]
 },
     {
-        "date": "2015-11-14",
-        "dateReadable": "14 Noviembre",
+        "date": "2017-03-18",
+        "dateReadable": "18 Marzo",
         "tracks": [{
             "title": "Facultad de Ciencias, Universidad de Salamanca"
         }, {
-            "title": "Serendipity Coworking"
+            "title": "Por definir"
         }],
         "timeslots": [{
             "startTime": "10:00",
@@ -33,47 +33,16 @@
                 [1002]
             ]
         }, {
-            "startTime": "10:40",
-            "endTime": "10:40-11:20",
-            "sessions": [
-                [103]
-            ]
-        }, {
-            "startTime": "11:20",
-            "endTime": "11:20-12:00",
-            "sessions": [
-                [101]
-            ]
-        }, {
             "startTime": "12:00",
             "endTime": "12:00-12:10",
             "sessions": [
                 [1003]
             ]
         }, {
-            "startTime": "12:10",
-            "endTime": "12:10-12:50",
-            "sessions": [
-                [102]
-            ]
-        }, {
-            "startTime": "12:50",
-            "endTime": "12:50-13:30",
-            "sessions": [
-                [106]
-            ]
-        }, {
             "startTime": "13:30",
             "endTime": "13:30-14:00",
             "sessions": [
                 [1004]
-            ]
-        }, {
-            "startTime": "16:30",
-            "endTime": "16:30-20:30",
-            "sessions": [
-                [],
-                [105]
             ]
         }]
     }]

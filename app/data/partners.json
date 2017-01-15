@@ -11,19 +11,14 @@
             "url": "http://muokkaa.com",
             "logoUrl": "../images/partners/muokkaa.svg"
 
-        },{
-            "name": "KITXUNE",
-            "url": "http://www.kitxune.com",
-            "logoUrl": "../images/partners/kitxunelogo.png"
-
+        }, {
+            "name": "Master Universitario en Diseño Gráfico y de Interface - UPSA",
+            "url": "http://designonscreens.com/",
+            "logoUrl": "../images/partners/designonscreens.jpg"
         },{
             "name": "Grupo de Investigación GRIAL. Universidad de Salamanca",
             "url": "http://grial.usal.es/",
             "logoUrl": "../images/partners/grial.png"
-        },{
-            "name": "Serendipity Coworking Salamanca",
-            "url": "http://serendipitycoworking.es/",
-            "logoUrl": "../images/partners/serendipity.svg"
         }]
     }, {
         "title": "Patrocinador Oro",
@@ -42,10 +37,6 @@
             "name": "Universidad Pontificia de Salamanca",
             "url": "https://upsa.es/",
             "logoUrl": "../images/partners/upsa.jpg"
-        }, {
-            "name": "Master Universitario en Diseño Gráfico y de Interface - UPSA",
-            "url": "http://designonscreens.com/",
-            "logoUrl": "../images/partners/designonscreens.jpg"
         }, {
             "name": "Charrosfera",
             "url": "http://charrosfera.com/",

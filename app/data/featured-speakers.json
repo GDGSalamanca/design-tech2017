@@ -1,21 +1,6 @@
 [{
     "id": 1,
-    "name": "Lole Román",
-    "company": "The Big House",
-    "photoUrl": "../../images/people/loleroman.jpeg"
-}, {
-    "id": 2,
     "name": "Alejandro López (Muokkaa)",
-    "company": "Muokkaa Studio",
+    "company": "ILOVEDUST",
     "photoUrl": "../../images/people/alexmuokkaa.jpg"
-}, {
-    "id": 3,
-    "name": "Iratxe Lezameta",
-    "company": "Kitxune Studio",
-    "photoUrl": "../../images/people/iratxe.jpg"
-}, {
-    "id": 4,
-    "name": "Ignacio Palomo Duarte",
-    "company": "The Big House",
-    "photoUrl": "../../images/people/ignaciopalomo.jpg"
 }]
