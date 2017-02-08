@@ -36028,12 +36028,12 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             }
         </style></template></dom-module><style is="custom-style" include="tags-color">
 :root {
-    --dark-primary-color: #0288D1;
-    --default-primary-color: #03A9F4;
-    --light-primary-color: #B3E5FC;
+    --dark-primary-color: #3d99cb;
+    --default-primary-color: #c74235;
+    --light-primary-color: #e3a719;
     --text-primary-color: #ffffff;
-    --accent-color: #FFC107;
-    --primary-background-color: #03A9F4;
+    --accent-color: #389545;
+    --primary-background-color: #3d99cb;
     --primary-text-color: #212121;
     --secondary-text-color: #727272;
     --disabled-text-color: #bdbdbd;
@@ -36381,7 +36381,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
             }
 
             .nav-link {
-                color: inherit;
+                color: var(--primary-text-color);
             }
 
             .logo {
@@ -36469,15 +36469,15 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
                     <paper-icon-button class="menu-toggle" icon="menu" on-tap="togglePanel"></paper-icon-button>
                     <div class="flex hidden-xs">
                         <a data-route="home" href="/" hidden$="{{hideLogo}}">
-                            <img class="logo" src="../images/logo-white.png" alt="Design&amp;Tech Salamanca 2015">
+                            <img class="logo" src="../images/logo-white.png" alt="Design&amp;Tech Salamanca 2017">
                         </a>
                     </div>
                     <paper-tabs class="hidden-xs" attr-for-selected="data-route" selected="{{route}}">
-                        <!--<paper-tab class="text-u-c" link>
-                            <a data-route="blog" href="#!/blog" class="nav-link horizontal center-center layout">
-                                Blog
+                        <paper-tab class="text-u-c" link="">
+                            <a data-route="home" href="/" class="nav-link horizontal center-center layout">
+                                Inicio
                             </a>
-                        </paper-tab>-->
+                        </paper-tab>
                         <paper-tab class="text-u-c" link="">
                             <a data-route="schedule" href="#!/schedule" class="nav-link horizontal center-center layout">
                                 Programa
@@ -36902,8 +36902,8 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
             }
 
             .logo-img {
-                height: 60px;
-                width: 140px;
+                height: 120px;
+                width: 180px;
             }
         </style>
         <div class="container relative layout vertical center">
@@ -37010,7 +37010,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
         <style>
             :host {
                 display: block;
-                background: #FCFCFC;
+                background: var(--primary-background-color);
                 overflow: hidden;
             }
 
@@ -37025,7 +37025,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
 
             .footer {
                 min-height: 200px;
-                color: #757575;
+                color: #ffffff;
             }
 
             .gdg-logo {
@@ -37291,6 +37291,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
                 position: relative;
                 overflow: hidden;
                 min-height: 300px;
+                color: #ffffff;
             }
 
             h4 {
@@ -37377,7 +37378,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
         <style>
             :host {
                 display: block;
-                background: var(--default-primary-color);
+                background: var(--accent-color);
             }
 
             .video-dialog,
@@ -38067,7 +38068,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
         <style>
             :host {
                 display: block;
-                background: var(--default-primary-color);
+                background: var(--light-primary-color);
                 --social-font-color: #ffffff;
                 color: var(--social-font-color);
             }
