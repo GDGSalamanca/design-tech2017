@@ -2,16 +2,6 @@
     {
         "title": "Patrocinadores Principales",
         "logos": [{
-        "name": "The Big House",
-            "url": "http://thebighouse.io",
-            "logoUrl": "../images/partners/thebighouse.svg"
-
-        },{
-            "name": "Muokkaa Studio",
-            "url": "http://muokkaa.com",
-            "logoUrl": "../images/partners/muokkaa.svg"
-
-        }, {
             "name": "Master Universitario en Diseño Gráfico y de Interface - UPSA",
             "url": "http://designonscreens.com/",
             "logoUrl": "../images/partners/designonscreens.jpg"
