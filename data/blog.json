@@ -1,10 +1,17 @@
 [
   {
     "id": 1,
+    "title": "Google Product Design Sprint",
+    "titleUrl": "",
+    "posted": "Feb 10, 2017",
+    "file": "",
+    "brief": "El próximo 18 de marzo, un equipo de expertos en UX dirigirá un Design Sprint para startups con el objetivo de enseñar y compartir la metodología Google Venture Product Design."
+  }, {
+    "id": 2,
     "title": "Por definir",
     "titleUrl": "",
-    "posted": "Jan 15, 2017",
-    "file": "2017-01-15-workshops-entradas.markdown",
+    "posted": "Feb 10, 2017",
+    "file": "",
     "brief": ""
   }
 ]

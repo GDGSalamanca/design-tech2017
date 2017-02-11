@@ -1,18 +1,78 @@
 [{
     "id": 1,
-    "name": "Alejandro López (Muokkaa)",
-    "title": "Diseñador gráfico",
-    "company": "ILOVEDUST",
-    "country": "United Kingdom",
-    "photoUrl": "../../images/people/alexmuokkaa.jpg",
-    "bio": "Diseñador gráfico afincado en Madrid y apasionado de la tipografía, el 3D y la ilustración. Siempre buscando inspiración y nuevos proyectos en los que involucrarse",
-    "tags": ["Entrepreneurship"],
+    "name": "Raúl Álvarez González",
+    "title": "UX and product design",
+    "company": "ClusterSeven",
+    "country": "Londres, Reino Unido",
+    "photoUrl": "../../images/people/Raul-Alvarez-Gonzalez-UX.jpg",
+    "bio": "Más de 8 años de experiencia como diseñador de UI y de UX, 5 de los cuales han estado centrados en aplicaciones móviles nativas. Actualmente UX Lead en ClusterSeven",
+    "tags": ["UX", "Design"],
     "socials": [{
         "name": "Website",
-        "link": "http://www.muokkaa.com"
+        "link": "http://raulalgo.es"
     }, {
         "name": "Twitter",
-        "link": "https://twitter.com/AlexMuokkaa"
+        "link": "https://twitter.com/raulalgo"
+    }, {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/raulalgo"
+    }, {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/raulalvarezgonzalez"
+    }]
+},{
+    "id": 2,
+    "name": "Gema López Pérez",
+    "title": "Creatividad y dirección de arte",
+    "company": "La Merienda - Diseño para Campeones",
+    "country": "Madrid, España",
+    "photoUrl": "../../images/people/Gema-Lopez-Perez-Design.jpg",
+    "bio": "Diseñadora gráfica/ Directora de arte con más de 9 años de experiencia trabajando en importantes estudios de diseño en Madrid para clientes como Repsol, Enagás, Daikin, Grupo Mahou - San Miguel, Adif, Sepes - Ministerio de Vivienda, etc. Actualmente soy socia/ directora de La Merienda - diseño para campeones",
+    "tags": ["Design"],
+    "socials": [{
+        "name": "Website",
+        "link": "http://www.lamerienda.es"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/gemaloop"
+    }, {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/gemalp"
+    }]
+},{
+    "id": 3,
+    "name": "Karina Ibarra",
+    "title": "Design/UX expert at Google Developers",
+    "company": "myABCKit",
+    "country": "Barcelona, España",
+    "photoUrl": "../../images/people/karina-ibarra-UX.jpg",
+    "bio": "Karina is the founder and CEO at myABCKit, a startup developing a play-based language learning platform for kids.As well, she leads Arquinauta, a studio that designs digital products for kids.She's been working in digital design for almost 18 years, specializing in concept development, interaction design, information architecture, usability and user research. Over the years, Karina has designed products and services for desktop and mobile – and for big institutions and educational companies.On her spare time she woks as Design/UX expert at Google Developers and as Sprint Master at Google Venture. Karina is especially interested in changing the way children learn at school, and is currently developing a new educational product, myABCKit, in order to bring play-based learning experiences into schools.",
+    "tags": ["UX", "Design", "Google Design Sprint Master"],
+    "socials": [{
+        "name": "Website",
+        "link": "http://www.lamerienda.es"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/karinai"
+    }, {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/karinaibarra"
+    }]
+},{
+    "id": 4,
+    "name": "Silvia Calvet",
+    "title": "Design/UX expert at Google Developers",
+    "company": "GFT Group",
+    "country": "Barcelona, España",
+    "photoUrl": "../../images/people/Silvia-Calvet-UX.jpg",
+    "bio": "Since 1999 I'm working at the intersection of Business, Technology and People. I have developed expertise across Innovation, Business Strategy, Digital Product and Service Design; as well as in Team Leadership, Project Management, Business processes and Organisational Culture.  I’m passionate about customer experience, collaboration, business results and sustainable grow. I work with organizations and teams to understand problems, identify needs and constraints to create valuable products and services that meet business goals and customers needs. <br /> I’m passionate about customer experience, collaboration, business results and sustainable grow. I work with organizations and teams to understand problems, identify needs and constraints to create valuable products and services that meet business goals and customers needs.",
+    "tags": ["UX", "Design", "Google Design Sprint Master"],
+    "socials": [{
+        "name": "Twitter",
+        "link": "https://twitter.com/silviacalvet"
+    }, {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/silviacalvet"
     }]
 }
 ]

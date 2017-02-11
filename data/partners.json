@@ -2,13 +2,13 @@
     {
         "title": "Patrocinadores Principales",
         "logos": [{
+            "name": "Grupo de Investigación GRIAL. Universidad de Salamanca",
+            "url": "https://grial.usal.es/",
+            "logoUrl": "../images/partners/grial.png"
+        },{
             "name": "Master Universitario en Diseño Gráfico y de Interface - UPSA",
             "url": "http://designonscreens.com/",
             "logoUrl": "../images/partners/designonscreens.jpg"
-        },{
-            "name": "Grupo de Investigación GRIAL. Universidad de Salamanca",
-            "url": "http://grial.usal.es/",
-            "logoUrl": "../images/partners/grial.png"
         }]
     }, {
         "title": "Patrocinador Oro",
