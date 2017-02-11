@@ -1,6 +1,21 @@
 [{
     "id": 1,
-    "name": "Alejandro López (Muokkaa)",
-    "company": "ILOVEDUST",
-    "photoUrl": "../../images/people/alexmuokkaa.jpg"
+    "name": "Raúl Álvarez González",
+    "company": "ClusterSeven",
+    "photoUrl": "../../images/people/Raul-Alvarez-Gonzalez-UX.jpg"
+},{
+    "id": 2,
+    "name": "Gema López Pérez",
+    "company": "La Merienda - Diseño para Campeones",
+    "photoUrl": "../../images/people/Gema-Lopez-Perez-Design.jpg"
+},{
+    "id": 3,
+    "name": "Karina Ibarra",
+    "company": "myABCKit",
+    "photoUrl": "../../images/people/karina-ibarra-UX.jpg"
+},{
+    "id": 4,
+    "name": "Silvia Calvet",
+    "company": "GFT Group",
+    "photoUrl": "../../images/people/Silvia-Calvet-UX.jpg"
 }]
