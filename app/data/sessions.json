@@ -18,5 +18,100 @@
     "id": 1004,
     "title": "Design, Tech & Beers",
     "description": "Networking"
+  },
+  {
+    "id": 101,
+    "title": "Workshop - Adobe After Effects",
+    "description": "",
+    "speakers": [5],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Google Product Design Sprint",
+    "description": "El próximo 18 de marzo, un equipo de expertos en UX dirigirá un Design Sprint para startups con el objetivo de enseñar y compartir la metodología Google Venture Product Design.",
+    "speakers": [3,4],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "UX",
+      "Design",
+      "Startup"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "La marca personal",
+    "description": "",
+    "speakers": [2],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Design"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "UX",
+    "description": "",
+    "speakers": [1],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "UX"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "React es un juego",
+    "description": "",
+    "speakers": [6],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Javascript",
+      "React",
+      "Frontend"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Motion",
+    "description": "",
+    "speakers": [5],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Design"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "",
+    "description": "",
+    "speakers": [7],
+    "language": "es",
+    "complexity": "Básico",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Design"
+    ]
   }
 ]

@@ -8,7 +8,7 @@
         "startTime": "16:00",
         "endTime": "16:00-20:00",
         "sessions": [
-            [104]
+            [101]
         ]
     }]
 },
@@ -21,26 +21,56 @@
             "title": "Por definir"
         }],
         "timeslots": [{
-            "startTime": "10:00",
-            "endTime": "10:00-10:30",
+            "startTime": "9:30",
+            "endTime": "9:30-10:00",
             "sessions": [
                 [1001]
             ]
         }, {
-            "startTime": "10:30",
-            "endTime": "10:30-10:40",
+            "startTime": "10:00",
+            "endTime": "10:00-10:10",
             "sessions": [
                 [1002]
             ]
         }, {
-            "startTime": "12:00",
-            "endTime": "12:00-12:10",
+            "startTime": "10:10",
+            "endTime": "10:10-10:50",
+            "sessions": [
+                [103]
+            ]
+        }, {
+            "startTime": "10:50",
+            "endTime": "10:50-11:30",
+            "sessions": [
+                [104]
+            ]
+        }, {
+            "startTime": "11:30",
+            "endTime": "11:30-11:40",
             "sessions": [
                 [1003]
             ]
         }, {
-            "startTime": "13:30",
-            "endTime": "13:30-14:00",
+            "startTime": "11:40",
+            "endTime": "11:40-12:20",
+            "sessions": [
+                [105]
+            ]
+        }, {
+            "startTime": "12:20",
+            "endTime": "12:20-13:00",
+            "sessions": [
+                [106]
+            ]
+        }, {
+            "startTime": "13:00",
+            "endTime": "13:00-13:40",
+            "sessions": [
+                [107]
+            ]
+        }, {
+            "startTime": "13:40",
+            "endTime": "13:40-14:00",
             "sessions": [
                 [1004]
             ]
