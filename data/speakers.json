@@ -74,5 +74,43 @@
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/in/silviacalvet"
     }]
+},{
+    "id": 5,
+    "name": "Makinë",
+    "title": "",
+    "company": "Estudio Creativo",
+    "country": "Salamanca, España",
+    "photoUrl": "../../images/people/makine_team.png",
+    "bio": "Makinë es un estudio creativo dedicado al diseño gráfico, fotografía, vídeo, 3D y sonido. Nos encontramos en Salamanca (España) pero desarrollamos proyectos en todo el mundo a través de internet. Hemos realizado los estudios de Gráfica Publicitaria y Diseño en la escuela de arte de Salamanca. Además tenemos formación en marketing, sonido, fotografía, 3D etc. Nos encanta la creatividad y no conformarnos con lo convencional, de modo que hacemos de nuestro trabajo nuestra pasión.",
+    "tags": ["Design", "Creativity"],
+    "socials": [{
+        "name": "Email",
+        "link": "mailto:info@makineestudio.com"
+    }, {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/makineestudio"
+    }]
+},{
+    "id": 6,
+    "name": "Antonio Juan Sánchez",
+    "title": "Senior Developer",
+    "company": "El Parking",
+    "country": "Salamanca, España",
+    "photoUrl": "../../images/people/antonio_juan_sanchez.jpg",
+    "bio": "Antonio Juan Sánchez Martín is an engineer in Computer Sciences at the University of Salamanca and owns a Bachelor Degree in Design at the Valencian High Institute of Art. He has worked as developer/analyst at BeOnPrice and front-end developer at ElParking and as a researcher at the University of Salamanca. He is specially interested in Art & Tech.",
+    "tags": ["Frontend", "Developer"],
+    "socials": [{
+        "name": "Behance",
+        "link": "https://www.behance.net/antologia"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/anto_logico"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/antoniojuansanchez"
+    }, {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/antologia/"
+    }]
 }
 ]
