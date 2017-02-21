@@ -39208,7 +39208,7 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
         },
         _filter: function(event) {
             var filterName = event.model.filter.name,
-                filterStatus = event.srcElement.checked,
+                filterStatus = event.currentTarget.checked,
                 filterIndex = this.filters.indexOf(filterName);
             if (filterStatus && filterIndex < 0) {
                 this.filters.push(filterName);
@@ -39629,6 +39629,16 @@ http://www.google.com/design/spec/layout/adaptive-ui.html#adaptive-ui-breakpoint
                     bottom: 0;
                     padding: 0;
                     margin: 0;
+                }
+                .schedule-block {
+                    padding-top: 0;
+                }
+                :host {
+                    --paper-tabs-selection-bar-color: var(--default-primary-color);
+
+                    --paper-tab: {
+                        color: var(--primary-text-color);
+                    }
                 }
             }
 
