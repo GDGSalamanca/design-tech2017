@@ -434,7 +434,7 @@
         },
         _filter: function(event) {
             var filterName = event.model.filter.name,
-                filterStatus = event.srcElement.checked,
+                filterStatus = event.currentTarget.checked,
                 filterIndex = this.filters.indexOf(filterName);
             if (filterStatus && filterIndex < 0) {
                 this.filters.push(filterName);
