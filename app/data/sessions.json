@@ -21,22 +21,23 @@
   },
   {
     "id": 101,
-    "title": "Workshop - Adobe After Effects",
+    "title": "¿Qué es Google Product Design Sprint?",
     "description": "",
-    "speakers": [5],
+    "speakers": [3,4,7],
     "language": "es",
     "complexity": "Básico",
     "presentation": "",
     "video": "",
     "tags": [
-      "Adobe"
+      "Design Sprint",
+      "UX"
     ]
   },
   {
     "id": 102,
     "title": "Google Product Design Sprint",
     "description": "El próximo 18 de marzo, un equipo de expertos en UX dirigirá un Design Sprint para startups con el objetivo de enseñar y compartir la metodología Google Venture Product Design.",
-    "speakers": [3,4],
+    "speakers": [3,4,7],
     "language": "es",
     "complexity": "Básico",
     "presentation": "",
@@ -90,7 +91,7 @@
   },
   {
     "id": 106,
-    "title": "Motion",
+    "title": "Interaction",
     "description": "",
     "speakers": [5],
     "language": "es",
@@ -98,14 +99,15 @@
     "presentation": "",
     "video": "",
     "tags": [
-      "Design"
+      "Design",
+      "HCI"
     ]
   },
   {
     "id": 107,
     "title": "",
     "description": "",
-    "speakers": [7],
+    "speakers": [8],
     "language": "es",
     "complexity": "Básico",
     "presentation": "",
