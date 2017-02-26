@@ -76,19 +76,26 @@
     }]
 },{
     "id": 5,
-    "name": "Makinë",
-    "title": "",
-    "company": "Estudio Creativo",
-    "country": "Salamanca, España",
-    "photoUrl": "../../images/people/makine_team.png",
-    "bio": "Makinë es un estudio creativo dedicado al diseño gráfico, fotografía, vídeo, 3D y sonido. Nos encontramos en Salamanca (España) pero desarrollamos proyectos en todo el mundo a través de internet. Hemos realizado los estudios de Gráfica Publicitaria y Diseño en la escuela de arte de Salamanca. Además tenemos formación en marketing, sonido, fotografía, 3D etc. Nos encanta la creatividad y no conformarnos con lo convencional, de modo que hacemos de nuestro trabajo nuestra pasión.",
-    "tags": ["Design", "Creativity"],
+    "name": "Daniel Armengol Altayó",
+    "title": "Interaction between people, technology, art and design",
+    "company": "GIF ME",
+    "country": "Barcelona, España",
+    "photoUrl": "../../images/people/daniel-armengol.jpg",
+    "bio": "http://www.armengol-altayo.com",
+    "tags": ["Design", "HCI"],
     "socials": [{
         "name": "Email",
-        "link": "mailto:info@makineestudio.com"
+        "link": "mailto:daniel@armengol-altayo.com "
+    }, {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/danielarmengolaltayo/"
     }, {
         "name": "Facebook",
-        "link": "https://www.facebook.com/makineestudio"
+        "link": "https://www.facebook.com/danielarmengolaltayo"
+    }
+    , {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/danielarmengolaltayo"
     }]
 },{
     "id": 6,
@@ -111,6 +118,35 @@
     }, {
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/in/antologia/"
+    }]
+},{
+    "id": 7,
+    "name": "Andrés Leonardo Martínez Ortíz",
+    "title": "Developer Program Manager",
+    "company": "Google",
+    "country": "Madrid, España",
+    "photoUrl": "../../images/people/almo.jpg",
+    "bio": "Computer Engineer working on Developer Program. ACM, IEEE & Computer Society member. The opinions stated here are my own, not necessarily those of my company",
+    "tags": ["Developer", "UX"],
+    "socials": [{
+        "name": "Twitter",
+        "link": "https://twitter.com/davilagrau"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/almo"
+    }]
+},{
+    "id": 8,
+    "name": "Antonio de Dios",
+    "title": "Art Director",
+    "company": "Herraiz Soto",
+    "country": "Barcelona, España",
+    "photoUrl": "../../images/people/antoniodedios.jpg",
+    "bio": "",
+    "tags": ["Design"],
+    "socials": [{
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/antoniodedios"
     }]
 }
 ]
