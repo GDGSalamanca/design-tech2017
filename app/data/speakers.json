@@ -62,12 +62,15 @@
     "id": 4,
     "name": "Silvia Calvet",
     "title": "Design/UX expert at Google Developers",
-    "company": "GFT Group",
+    "company": "Architecting Happiness",
     "country": "Barcelona, España",
     "photoUrl": "../../images/people/Silvia-Calvet-UX.jpg",
     "bio": "Since 1999 I'm working at the intersection of Business, Technology and People. I have developed expertise across Innovation, Business Strategy, Digital Product and Service Design; as well as in Team Leadership, Project Management, Business processes and Organisational Culture.  I’m passionate about customer experience, collaboration, business results and sustainable grow. I work with organizations and teams to understand problems, identify needs and constraints to create valuable products and services that meet business goals and customers needs. <br /> I’m passionate about customer experience, collaboration, business results and sustainable grow. I work with organizations and teams to understand problems, identify needs and constraints to create valuable products and services that meet business goals and customers needs.",
     "tags": ["UX", "Design", "Google Design Sprint Master"],
     "socials": [{
+        "name": "Web",
+        "link": "http://www.architectinghappiness.org"
+    }, {
         "name": "Twitter",
         "link": "https://twitter.com/silviacalvet"
     }, {
@@ -127,7 +130,7 @@
     "country": "Madrid, España",
     "photoUrl": "../../images/people/almo.jpg",
     "bio": "Computer Engineer working on Developer Program. ACM, IEEE & Computer Society member. The opinions stated here are my own, not necessarily those of my company",
-    "tags": ["Developer", "UX"],
+    "tags": ["Developer", "UX", "Google Design Sprint Master"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/davilagrau"
