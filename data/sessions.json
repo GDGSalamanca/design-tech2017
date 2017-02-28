@@ -77,7 +77,7 @@
   {
     "id": 105,
     "title": "React es un juego",
-    "description": "",
+    "description": "Hay 2 herramientas que a día de hoy parecen sentar la bases en firme del desarrollo de las Single Page Applications: React y Angular. El gran crecimiento de la pareja React-Redux, junto la gran comunidad que lo avala, y la aparición la versión 2 del popular framework de Google, que ha salido el año pasado, parecen marcar los devenires en el desarrollo en Front-end. En la charla vamos a ver cómo funciona la dupla React-Redux, que podemos esperar este framwork y cuáles son sus posibilidades. Y todo ello de la mejor manera... programando un sencillo video-juego.",
     "speakers": [6],
     "language": "es",
     "complexity": "Básico",
