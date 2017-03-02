@@ -18,61 +18,76 @@
         "tracks": [{
             "title": "Facultad de Ciencias, Universidad de Salamanca"
         }, {
-            "title": "Por definir"
+            "title": "Edificio Multiusos I+D+i, Universidad de Salamanca"
         }],
         "timeslots": [{
             "startTime": "9:30",
             "endTime": "9:30-10:00",
             "sessions": [
-                [1001]
+                [1001],
+                [102]
             ]
         }, {
             "startTime": "10:00",
             "endTime": "10:00-10:10",
             "sessions": [
-                [1002]
+                [1002],
+                [102]
             ]
         }, {
             "startTime": "10:10",
             "endTime": "10:10-10:50",
             "sessions": [
-                [103]
+                [103],
+                [102]
             ]
         }, {
             "startTime": "10:50",
             "endTime": "10:50-11:30",
             "sessions": [
-                [104]
+                [104],
+                [102]
             ]
         }, {
             "startTime": "11:30",
             "endTime": "11:30-11:40",
             "sessions": [
-                [1003]
+                [1003],
+                [102]
             ]
         }, {
             "startTime": "11:40",
             "endTime": "11:40-12:20",
             "sessions": [
-                [105]
+                [105],
+                [102]
             ]
         }, {
             "startTime": "12:20",
             "endTime": "12:20-13:00",
             "sessions": [
-                [106]
+                [106],
+                [102]
             ]
         }, {
             "startTime": "13:00",
             "endTime": "13:00-13:40",
             "sessions": [
-                [107]
+                [107],
+                [102]
             ]
         }, {
             "startTime": "13:40",
             "endTime": "13:40-14:00",
             "sessions": [
-                [1004]
+                [1004],
+                [102]
+            ]
+        }, {
+            "startTime": "14:00",
+            "endTime": "9:00-18:00",
+            "sessions": [
+                [102]
             ]
         }]
     }]
