@@ -79,26 +79,22 @@
     }]
 },{
     "id": 5,
-    "name": "Daniel Armengol Altayó",
-    "title": "Interaction between people, technology, art and design",
-    "company": "GIF ME",
+    "name": "Julio López Cruz",
+    "title": "Senior Game Artist",
+    "company": "King",
     "country": "Barcelona, España",
-    "photoUrl": "../../images/people/daniel-armengol.jpg",
-    "bio": "http://www.armengol-altayo.com",
-    "tags": ["Design", "HCI"],
+    "photoUrl": "../../images/people/julio-alc.jpg",
+    "bio": "My objective is to work as an artist, in a professional environment, forming part of a group that works efficiently to achieve a common goal. I believe I could contribute with my talent, creativity and passion in the development of any project.<br />I am passionate about creating games from the beginning. Being part of the artistic direction and find the look and feel that the project needs to become a great game.",
+    "tags": ["Design", "3D", "Games"],
     "socials": [{
-        "name": "Email",
-        "link": "mailto:daniel@armengol-altayo.com "
+        "name": "Behance",
+        "link": "https://www.behance.net/halfsteak"
     }, {
-        "name": "Instagram",
-        "link": "https://www.instagram.com/danielarmengolaltayo/"
+        "name": "Twitter",
+        "link": "https://twitter.com/Halfsteak_"
     }, {
-        "name": "Facebook",
-        "link": "https://www.facebook.com/danielarmengolaltayo"
-    }
-    , {
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/danielarmengolaltayo"
+        "link": "https://www.linkedin.com/in/julio-alberto-l%C3%B3pez-cruz-02809317"
     }]
 },{
     "id": 6,

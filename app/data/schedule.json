@@ -2,11 +2,11 @@
     "date": "2017-03-17",
     "dateReadable": "17 Marzo",
     "tracks": [{
-        "title": "Por definir"
+        "title": "Edificio Multiusos I+D+i, Universidad de Salamanca"
     }],
     "timeslots": [{
-        "startTime": "16:00",
-        "endTime": "16:00-20:00",
+        "startTime": "18:30",
+        "endTime": "18:30-20:00",
         "sessions": [
             [101]
         ]
