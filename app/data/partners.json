@@ -40,6 +40,10 @@
             "url": "http://betabeers.com",
             "logoUrl": "../images/partners/betabeers-sal.png"
         }, {
+            "name": "Turismo de Salamanca",
+            "url": "http://www.salamanca.es/es",
+            "logoUrl": "../images/partners/turissalamanca.png"
+        }, {
             "name": "Tech&Ladies",
             "url": "http://techandladies.com/",
             "logoUrl": "../images/partners/techandladies.png"
