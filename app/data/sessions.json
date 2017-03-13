@@ -91,8 +91,8 @@
   },
   {
     "id": 106,
-    "title": "3D",
-    "description": "",
+    "title": "Un artista en la era del Candy Crush",
+    "description": "¿Cuál es el proceso de creación de un videojuego? La mayoría de personas tienen conocimiento de la existencia de los videojuegos. Cada vez más son jugados por millones de personas a diario. Nos adentraremos en el mundo del desarrollo de videojuegos de la mano del arte, explicando diferentes tipos de pipeline dependiendo del género y de cómo nace un producto que será jugado por millones de usuarios al día.",
     "speakers": [5],
     "language": "es",
     "complexity": "Básico",
