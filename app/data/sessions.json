@@ -105,15 +105,17 @@
   },
   {
     "id": 107,
-    "title": "",
-    "description": "",
+    "title": "¿Cuántos likes son un te quiero?",
+    "description": "Es la época de los likes pero también de los unlikes, del Skip Ad de Youtube, los AdBlokers, el Unsuscribe del mail y los haters. Cada vez que un millennial dice que no cree en la publicidad muere un creativo, pero todavía hay algunos que se atreven a intentarlo.<br />Optimismo, mala suerte, buenas galletas, apagar el móvil el lunes, el cariño y algún consejo de Guardiola en una charla de 20 minutos.",
     "speakers": [8],
     "language": "es",
     "complexity": "Básico",
     "presentation": "",
     "video": "",
     "tags": [
-      "Design"
+      "Design",
+      "Publicidad",
+      "Medios"
     ]
   }
 ]
